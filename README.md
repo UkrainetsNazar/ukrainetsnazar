@@ -82,7 +82,7 @@
   <a href="https://www.linkedin.com/in/nazar-ukrainets-971379314/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/allaukrainec" target="_blank">
+  <a href="https://x.com/ukrnazar51" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
   <a href="https://www.instagram.com/ukrayinetsnazar?igsh=NGl3b3hkZG16Z2lw&utm_source=qr" target="_blank">
